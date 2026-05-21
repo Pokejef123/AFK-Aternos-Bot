@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pokejef.aternos.me",
+    "ip": "lamprey.aternos.host:51257",
     "port": 51257,
     "version": "1.21.10",
     "try-creative": true
