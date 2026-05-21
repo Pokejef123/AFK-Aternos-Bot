@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pokejef.aternos.me:51257",
+    "ip": "pokejef.aternos.me",
     "port": 51257,
     "version": "1.21.10",
     "try-creative": true
