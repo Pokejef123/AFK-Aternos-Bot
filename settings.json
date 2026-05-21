@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lamprey.aternos.host:51257",
-    "port": 51257,
-    "version": "1.21.10",
+    "ip": "139.99.22.8:23600",
+    "port": 23600,
+    "version": "1.20.1",
     "try-creative": true
   },
   "position": {
